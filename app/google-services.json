@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "523349495229",
+    "firebase_url": "https://patio-de-compras.firebaseio.com",
+    "project_id": "patio-de-compras",
+    "storage_bucket": "patio-de-compras.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523349495229:android:89307b793469bc65",
+        "android_client_info": {
+          "package_name": "com.labs87.patiodecompras"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523349495229-u290utjp2ccku1s7g0nunpd3j7bmm99p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.labs87.patiodecompras",
+            "certificate_hash": "b397334eb11fb98e6aa62d963efbf436c0684453"
+          }
+        },
+        {
+          "client_id": "523349495229-jccnsagphk76k1olnpu6e8ak6pej97dn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7GpansXVa8gnHus3hllKsnQ0Okw3NnVw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523349495229-jccnsagphk76k1olnpu6e8ak6pej97dn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523349495229:android:2c600bc3c113c245",
+        "android_client_info": {
+          "package_name": "labs87.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523349495229-jccnsagphk76k1olnpu6e8ak6pej97dn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7GpansXVa8gnHus3hllKsnQ0Okw3NnVw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
